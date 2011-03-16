@@ -108,3 +108,7 @@ div#footer {
 	div#usergreet {
 		float: left;
 	}
+
+.wikkly-strike {
+    text-decoration: line-through;
+}
